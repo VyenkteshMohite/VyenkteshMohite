@@ -1,7 +1,7 @@
 
 ![Header](./header.png)
 
-<h1 align="center">Hi 👋, I'm Tushar Patle</h1>
+<h1 align="center">Hi 👋, I'm Vyenktesh Mohite</h1>
 <h3 align="center">I'm a tech enthusiast exploring the endless possibilities of software and Constantly learning and growing in the world of technology. I'm on a quest to bring ideas to life through lines of codes so Let's connect code and make a possible impact together!....✍️</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif">
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Java, Docker, Jira, Web-Technologies**
 
-- 📫 How to reach me **patle.tushar2000@gmail.com**
+- 📫 How to reach me **mohitevyenktesh@gmail.com**
 
 - ⚡ Fun fact **I'm a funny Guy😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tusharpatle25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tusharpatle25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vyenktesh-mohite-723933293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tusharpatle25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
