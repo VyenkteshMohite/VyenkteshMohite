@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-exe&show_icons=true&locale=en&layout=compact" alt="tushar-exe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-exe&show_icons=true&locale=en" alt="tushar-exe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushar-exe&show_icons=true&locale=en" alt="VyenkteshMohite" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-exe&" alt="tushar-exe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-exe&" alt="VyenkteshMohite" /></p>
